@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2024-02-12T04:43:36.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="sqXcyzcUnXZPTtp5vsuc" version="23.1.2" type="device">
+  <diagram name="Page-1" id="bxdbXWFKtZaJ5w7e4Sbs">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Dj7pXQuzupnYyq5w7Xr8-1" target="Dj7pXQuzupnYyq5w7Xr8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-1" value="User Interface" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Dj7pXQuzupnYyq5w7Xr8-3" target="Dj7pXQuzupnYyq5w7Xr8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-3" value="Telegram bot API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Dj7pXQuzupnYyq5w7Xr8-5" target="Dj7pXQuzupnYyq5w7Xr8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-5" value="HKBU ChatGPT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-6" value="ChatGPT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-7" value="Redis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-8" value="Logging" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-9" value="Configuration settings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Dj7pXQuzupnYyq5w7Xr8-14" target="Dj7pXQuzupnYyq5w7Xr8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Dj7pXQuzupnYyq5w7Xr8-14" target="Dj7pXQuzupnYyq5w7Xr8-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Dj7pXQuzupnYyq5w7Xr8-14" target="Dj7pXQuzupnYyq5w7Xr8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Dj7pXQuzupnYyq5w7Xr8-14" target="Dj7pXQuzupnYyq5w7Xr8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dj7pXQuzupnYyq5w7Xr8-14" value="Telegram bot server&lt;br&gt;&lt;br&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Host the chatbot logic&lt;/font&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
